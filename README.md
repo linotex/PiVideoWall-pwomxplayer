@@ -4,6 +4,8 @@ It is fork **piwall** from http://piwall.co.uk/ site
 
 [pwlibs fork](https://github.com/linotex/PiVideoWall-pwlibs)
 
+[Forum](https://groups.google.com/g/piwall-users)
+
 
 pwomxplayer
 ===========
